@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, #2ecc71, #16a085);
+    background: #f24b73;
 }
 .clock{
     position: relative;
